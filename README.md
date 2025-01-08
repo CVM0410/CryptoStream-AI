@@ -136,7 +136,7 @@ streamlit run frontend/app.py
 | Containerization | Docker |
 
 ## Contributors
-- Siddharth Singh
+- Chirag Mahajan
 
 ## License
 This project is licensed under the MIT License.
